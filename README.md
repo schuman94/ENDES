@@ -42,3 +42,8 @@ Tabla con la información de los compañeros de clase:
 | Samuel | https://github.com/srsempere |
 | Raul | https://github.com/raulRB19 |
 
+Añadir colaborador:
+
+![ScreenShot](https://raw.githubusercontent.com/schuman94/refuerzo-SCM/master/imagenes/13.PNG)
+
+
