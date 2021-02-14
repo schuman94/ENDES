@@ -16,3 +16,8 @@ git push
 
 git tag v0.1 -m "Version 0.1"
 git push --tags
+
+Para añadir imagenes al readme, las añadimos primero al proyecto.
+git add .
+git commit -m "imagenes añadidas"
+git push
